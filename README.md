@@ -1,2 +1,2 @@
-# plant_helath
-Plant Health Analysis and Diagnostic System
+# Plant Health Analysis and Diagnostic System
+
